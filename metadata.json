@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BeatMaster AI",
+  "description": "Studio di analisi audio, separazione tracce (stem splitting) ed mastering automatico ibridato con Intelligenza Artificiale DSP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
